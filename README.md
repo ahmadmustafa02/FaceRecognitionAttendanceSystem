@@ -209,7 +209,7 @@ attendify/
 ## 👥 Authors
 
 **Ahmad Mustafa** - [GitHub](https://github.com/ahmadmustafa02)  
-**Malik Saad Hayat** - [GitHub](https://github.com/maliksaadhayat)
+**Malik Saad Hayat** - [GitHub](https://github.com/saadhtiwana)
 
 *COMSATS University, Islamabad*
 

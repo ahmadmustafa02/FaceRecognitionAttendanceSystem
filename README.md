@@ -33,19 +33,19 @@
 
 
 <p align="center">
-  <img src="img1.jpeg" alt="Employee Registration" width="600" height="600">
+  <img src="img1.jpeg" alt="Employee Registration" width="300" height="600">
   <br>
   <em>Seamless employee registration with face capture and liveness detection</em>
 </p>
 
 <p align="center">
-  <img src="img2.jpeg" alt="Attendance Marking" width="600" height="600">
+  <img src="img2.jpeg" alt="Attendance Marking" width="300" height="600">
   <br>
   <em>Instant attendance marking with facial recognition and verification</em>
 </p>
 
 <p align="center">
-  <img src="img3.jpeg" alt="Attendance Records" width="600" height="600">
+  <img src="img3.jpeg" alt="Attendance Records" width="300" height="600">
   <br>
   <em>Complete attendance history and analytics at your fingertips</em>
 </p>

@@ -32,15 +32,23 @@
 ## 📸 Demo
 
 
-![Employee Registration](img1.jpeg)
-*Seamless employee registration with face capture and liveness detection*
+<p align="center">
+  <img src="img1.jpeg" alt="Employee Registration" width="300" height="200">
+  <br>
+  <em>Seamless employee registration with face capture and liveness detection</em>
+</p>
 
+<p align="center">
+  <img src="img2.jpeg" alt="Attendance Marking" width="300" height="200">
+  <br>
+  <em>Instant attendance marking with facial recognition and verification</em>
+</p>
 
-![Attendance Marking](img2.jpeg)
-*Instant attendance marking with facial recognition and verification*
-
-![Attendance Records](img3.jpeg)
-*Complete attendance history and analytics at your fingertips*
+<p align="center">
+  <img src="img3.jpeg" alt="Attendance Records" width="300" height="200">
+  <br>
+  <em>Complete attendance history and analytics at your fingertips</em>
+</p>
 
 ---
 
